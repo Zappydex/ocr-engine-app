@@ -289,9 +289,9 @@ const Home = () => {
       <Header>
         <Logo>
           <LogoMainText>
-            <span>DOC</span><span>SUMO</span>
+            <span>INVO</span><span>TEX</span>
           </LogoMainText>
-          <LogoSubText>Document AI</LogoSubText>
+          <LogoSubText>Invoice AI</LogoSubText>
         </Logo>
         <HamburgerIcon onClick={toggleMenu}>
           <span></span>
