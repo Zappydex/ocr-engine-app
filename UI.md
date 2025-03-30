@@ -128,7 +128,7 @@ The Dashboard is a project-specific interface that integrates with the OCR Engin
 
 
 
-#MORE DETAILED WORKSPACE & DASHBOARD ARCHITECTURE
+## MORE DETAILED WORKSPACE & DASHBOARD ARCHITECTURE
 
 ## WORKSPACE (Workspace.js)
 
